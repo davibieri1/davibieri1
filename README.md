@@ -1,4 +1,8 @@
-## Hi there 👋
+## Davi Bieri
+Engenharia da computação 1°semestre
+interesse na área de programação
+semester objective: construir base sólida em programação.
+
 
 <!--
 **davibieri1/davibieri1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
