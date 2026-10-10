@@ -1,20 +1,11 @@
-## Davi Bieri
-Engenharia da computação 1°semestre
-interesse na área de programação
-semester objective: construir base sólida em programação.
+## Olá! Eu Sou o Davi Bieri
 
 
-<!--
-**davibieri1/davibieri1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔎 Estudando Java
+- Contate-me no email: davilasmarbieri12@gmail.com
+- 😄 Pronomes: Ele/Dele
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<div>
+  [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?davibieri1anuraghazra)](https://github.com/stats-organization/github-stats-extended)
+</div>
 -->
