@@ -24,7 +24,7 @@ Me chamo Davi Bieri, tenho 18 anos e moro em Belém - PA. Atualmente curso Engen
 
 
 
-<h3 align="left">My Stack ~</h3>
+<h3 align="left">My Stack </h3>
 
 <img 
     align="left" 
